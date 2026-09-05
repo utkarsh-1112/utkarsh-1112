@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey there! 
 
-<!--
-**utkarsh-1112/utkarsh-1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm Utkarsh, a front-end developer based in India.
 
-Here are some ideas to get you started:
+I desgign and built whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it and ship it.
+My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma.
+I've got a bunch of pinned projects, but my favorite is the Vocal FlowAI.
+If you want to learn how i do it, my contact is here.
+Fun Facts:
+• I have two cats
+• I don't like coffee or tea
+• One Piece is my favorite anime
+• Hobbies: anime, gym, building things
+
+
+
