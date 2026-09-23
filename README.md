@@ -1,6 +1,6 @@
 Hey there! 
 
-i'm Utkarsh, a front-end developer based in India.
+I'm Utkarsh, a front-end developer based in India.
 
 I desgign and built whatever I can imagine.
 
@@ -16,13 +16,13 @@ If you want to learn how i do it, my contact is here.
 
 Fun Facts:
 
-• I have two cats
+• I have two dogs
 
 • I don't like coffee or tea
 
 • One Piece is my favorite anime
 
-• Hobbies: anime, gym, building things
+• Hobbies: Anime, Gym, Building Things
 
 
 
